@@ -51,14 +51,6 @@ Run the notebook directly: https://colab.research.google.com/drive/15ePQAyXHorci
 
 - Retrieve top-k similar products
 
-### Evaluation
-
-- Precision@k
-
-- Recall@k
-
-- Mean Reciprocal Rank (MRR)
-
 ### Visualization
 
 - UMAP projection of embeddings to explore product clusters
