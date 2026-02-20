@@ -99,9 +99,7 @@ The system retrieves products based on semantic similarity, not exact keyword ma
 
 - Better dataset with category balance
 
-- User interface using 
-
-Integration with a vector database
+- User interface
 
 ## 👤 Author
 
